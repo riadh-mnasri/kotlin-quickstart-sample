@@ -6,7 +6,6 @@ import java.time.LocalDate
 
 class AgeCalculatorTest {
 
-
     @Test
     internal fun should_john_age_be_equal_to_30() {
         // Given
